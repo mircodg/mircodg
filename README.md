@@ -42,4 +42,3 @@ I'm a computer Engineer with a love for coding and learning new technologies.
 ## 📚 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
--->
