@@ -16,7 +16,7 @@ I'm a Electronic and Computer Engineer with a love for coding and learning new t
 -->
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, TypeScript, Java, C++, HTML, CSS, Tailwind CSS
+- **Languages:** Python, JavaScript, TypeScript, Java, C, HTML, CSS, Tailwind CSS
 - **Frameworks:** React, Next.js, Laravel
 - **Tools:** Git, Docker
 - **Databases:** MySQL, PostgreSQL, MongoDB
