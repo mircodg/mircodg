@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mircodg&color=blue)
 
 ## 💼 About Me
-I'm a Electronic and Computer Engineer with a love for coding and learning new technologies.
+I'm a Software Engineer with a love for coding and learning new technologies.
 
 - 🔭 I’m currently working at [iNNOVA](https://www.innovame.it/#) as a Software Engineer
 - 🌱 I’m currently learning [FastAPI](https://fastapi.tiangolo.com/)
