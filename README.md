@@ -6,7 +6,6 @@
 I'm a Software Engineer with a love for coding and learning new technologies.
 
 - 🔭 I’m currently working at [iNNOVA](https://www.innovame.it/#) as a Software Engineer
-- 🌱 I’m currently learning [FastAPI](https://fastapi.tiangolo.com/)
 - 🎓 I hold a Bachelor's degree in **Electronics and Computer Engineering** from the **University of Messina**  
 - 📚 I'm currently pursuing a **Master's degree in "Engineering in computer science"** at the **University of Messina**
 - 📫 How to reach me: [germanamirco@gmail.com](mailto:germanamirco@gmail.com)
