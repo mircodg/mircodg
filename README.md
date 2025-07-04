@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Mirco
+# 👋 Hi, I'm Domenico
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mircodg&color=blue)
 
 ## 💼 About Me
 I'm a Software Engineer with a love for coding and learning new technologies.
 
-- 🔭 I’m currently working at [iNNOVA](https://www.innovame.it/#) as a Software Engineer
+- 🔭 I’m currently working at [iNNOVA](https://www.innovatech.info/) as a Software Engineer
 - 🎓 I hold a Bachelor's degree in **Electronics and Computer Engineering** from the **University of Messina**  
 - 📚 I'm currently pursuing a **Master's degree in "Engineering in computer science"** at the **University of Messina**
 - 📫 How to reach me: [germanamirco@gmail.com](mailto:germanamirco@gmail.com)
@@ -15,10 +15,11 @@ I'm a Software Engineer with a love for coding and learning new technologies.
 -->
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, TypeScript, Java, C, HTML, CSS, Tailwind CSS, PHP
+- **Languages:** Python, TypeScript, Java, C, HTML, CSS, Tailwind CSS, PHP
 - **Frameworks:** React, Next.js, Laravel
 - **Tools:** Git, Docker
 - **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud:** AWS
 
 <!--
 ## 📈 GitHub Stats
